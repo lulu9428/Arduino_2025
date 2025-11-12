@@ -1,7 +1,7 @@
 const int buttonPin = 2;  // Pushbutton pin
-const int ledPinr = 8;    // Red LED pin
-const int ledPinb = 9;    // Blue LED pin
-const int ledPing = 10;   // Green LED pin
+const int ledPinr = 9;    // Red LED pin
+const int ledPinb = 10;    // Blue LED pin
+const int ledPing = 11;   // Green LED pin
 
 // Variables
 int buttonState = 0;  // Pushbutton status
